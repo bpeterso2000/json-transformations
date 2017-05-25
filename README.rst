@@ -125,6 +125,8 @@ Project Status
 +---+-----+---------+-------------+--------------+-------------------------+
 | L | 0/5 | BACKLOG | jsonreduce  | jsoncalc     |  Reduce JSON arrays     |
 +---+-----+---------+-------------+--------------+-------------------------+
+| M | 0/5 | BACKLOG | json2csv    | jsoncut      |  Convert JSON to CSV    |
++---+-----+---------+-------------+--------------+-------------------------+
 | M | 4/5 | BACKLOG | jsontypes   | jsonkeys     |  Inspect JSON documents |
 +---+-----+---------+-------------+--------------+-------------------------+
 | M | 2/5 | BACKLOG | jsonbones   | jsoncalc     |  API transmogrification |
