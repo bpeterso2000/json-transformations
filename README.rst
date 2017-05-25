@@ -68,7 +68,7 @@ Project Status
 +---+-----+---------+-------------+--------------+-------------------------+
 | P |  %  | Status  | Package     | Dependencies | Comments                |
 +===+=====+=========+=============+==============+=========================+
-| M | 4/5 | ACTIVE  | color-names |              | Curated list of color   |
+| M | 4/5 | DONE    | color-names |              | Curated list of color   |
 |   |     |         |             |              | names to RGB hex string |
 |   |     |         |             |              | values in JSON format   |
 +---+-----+---------+-------------+--------------+-------------------------+
