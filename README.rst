@@ -87,7 +87,7 @@ Project Status
 +---+-----+---------+-------------+--------------+-------------------------+
 | M | 3/5 | ACTIVE  | jsoncolor   | jsoncat      | JSON highlighting 256   |
 |   |     |         |             | color-names  | colors, many styles,    |
-|   |     |         |             |              | custom user settings    |     
+|   |     |         |             |              | custom user settings    | 
 |   |     |         |             |              | Win, Mac & Unix support |
 +---+-----+---------+-------------+--------------+-------------------------+
 | M | 3/5 | NEXT-UP | jsonconfig  | itemizer     | CRUD operations for     |
