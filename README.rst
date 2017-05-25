@@ -76,15 +76,19 @@ Project Status
 +---+-----+---------+-------------+--------------+-------------------------+
 | M | 1/5 | BACKLOG | jsoncalc    | jsonkeys     | Python RPN Calculator   |
 +---+-----+---------+-------------+--------------+-------------------------+
-| M | 5/5 | DONE    | jsoncat     |              | PyPi: Registered        |
+| M | 5/5 | DONE    | jsoncat     |              | Human-readable or       |
+|   |     |         |             |              | compressed format       |
+|   |     |         |             |              | PyPi: Registered        |
 |   |     |         |             |              | Code Coverage: 95%      |
 |   |     |         |             |              | TODO: Travis CI         |
 |   |     |         |             |              | TODO: Coveralls         |
 |   |     |         |             |              | Versions: PY2.6,7       |
 |   |     |         |             |              | Versions: PY3.3+; pypy  |
 +---+-----+---------+-------------+--------------+-------------------------+
-| M | 3/5 | ACTIVE  | jsoncolor   | jsoncat      | Human-readable or       |
-|   |     |         |             |              | compressed format       |
+| M | 3/5 | ACTIVE  | jsoncolor   | jsoncat      | JSON highlighting 256   |
+|   |     |         |             | color-names  | colors, many styles,    |
+|   |     |         |             |              | custom user settings    |     
+|   |     |         |             |              | Win, Mac & Unix support |
 +---+-----+---------+-------------+--------------+-------------------------+
 | M | 3/5 | NEXT-UP | jsonconfig  | itemizer     | CRUD operations for     |
 |   |     |         |             |              | persistent user         |
