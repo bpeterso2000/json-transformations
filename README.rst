@@ -5,9 +5,9 @@ JSON Transformations
     Aspires to use Python to teach users to train Python to reliably solve
     JSON data extraction and transformation problems without code.
 
-* `Contributing Guidelines<https://github.com/json-transformations/jsontransform/wiki/Contributing>`_
-* `Dependency Graph<http://www.xmind.net/m/yRsa>`_
-* `List of Packages (Maintainer & Status)<https://github.com/json-transformations/jsontransform/wiki/Packages>`_
+* `Contributing Guidelines`_
+* `Dependency Graph`_
+* `List of Packages`_ (Maintainer & Status)
 
 Command-Line Toolbox
     a slight twist on existing, traditional, JSON Unix-like tools to make
@@ -31,3 +31,13 @@ Learning Module
     Teach users to train the application how to extract and transform data.
     There are lots of existing patterns in this space that can be
     dynamically learned; quit reinventing the wheel.
+
+
+.. _Contributing Guidelines:
+    https://github.com/json-transformations/jsontransform/wiki/Contributing
+
+.. _Dependency Graph:
+    http://www.xmind.net/m/yRsa
+
+.. _List of Packages:
+    https://github.com/json-transformations/jsontransform/wiki/Packages
