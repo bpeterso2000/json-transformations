@@ -37,7 +37,7 @@ Learning Module
     https://github.com/json-transformations/jsontransform/wiki/Contributing
 
 .. _Dependency Graph:
-    http://www.xmind.net/m/yRsa
+    http://www.xmind.net/m/cU6a
 
 .. _List of Packages:
     https://github.com/json-transformations/jsontransform/wiki/Packages
